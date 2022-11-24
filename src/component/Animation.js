@@ -11,7 +11,7 @@ export default function Animation(){
       <>
         <div className="container">
         <motion.h2 className="something" animate={{fontSize:"50px"}}>
-          helloo 
+          helloo everyone 
         </motion.h2>
         </div>
       </>
